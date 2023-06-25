@@ -8,6 +8,11 @@
 diese Anwendung wurde entwickelt, um die Parameter bei der Herstellung von zylindrischen Rohrschlangen zu berechnen
 
 die Anwendung kann unter Windows ausgeführt werden.es gibt auch eine mobile Version von Android (Datei android-build-debug.apk)
+- im Projekt werden verwendet :
+
+  Qt 6
+
+  CMake 3.5
 ## beschreibung des Codes
 - die Anwendung erstellt ein Widget-Formular in Qt Designer und ist mithilfe der Mehrfachvererbung in den Code integriert :
 
